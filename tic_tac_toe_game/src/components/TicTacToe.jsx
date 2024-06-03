@@ -124,7 +124,7 @@ export const TicTacToe = () => {
             p={4}
             color="white"
         >
-            <Heading fontSize="4xl" mb={4} textAlign="center">
+            <Heading mt='-50px' fontSize="4xl" mb={4} textAlign="center">
                Welcome to My Tic Tac Toe
             </Heading>
             {!gameStarted ? (
