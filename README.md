@@ -15,3 +15,18 @@ This is a simple Tic Tac Toe game implemented using React and Chakra UI. The gam
 - **Winner Announcement**: Displays the winner or announces a draw at the end of the game.
 - **Reset Game**: Allows players to reset the game and start over.
 
+## Technical Details
+- **React:** A JavaScript library for building user interfaces.
+- **Chakra UI:** A simple, modular, and accessible component library that gives you all the building blocks you need to build your React applications.
+- **Audio Handling:** Utilizes HTML5 Audio elements for background music and sound effects.
+
+  ## Objectives
+
+The main objectives of this project are:
+
+- To create a functional Tic Tac Toe game with a modern user interface.
+- To incorporate background music and sound effects to enhance the gaming experience.
+- To demonstrate proficiency in React and Chakra UI for building interactive web applications.
+- To apply best practices in state management and component architecture.
+
+
