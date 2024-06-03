@@ -125,7 +125,7 @@ export const TicTacToe = () => {
             color="white"
         >
             <Heading fontSize="4xl" mb={4} textAlign="center">
-                Tic Tac Toe
+               Welcome to My Tic Tac Toe
             </Heading>
             {!gameStarted ? (
                 <Button onClick={startGame} colorScheme="teal" size="lg">
