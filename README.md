@@ -1,2 +1,2 @@
 # Tic-Tac-Toe-Game
-<h2>Deplolyed App: </h2>  https://saviour-figma-project.vercel.app/
+<h2>Deplolyed App: https://saviour-figma-project.vercel.app/</h2>  
