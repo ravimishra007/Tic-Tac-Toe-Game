@@ -3,7 +3,8 @@
 # Tic-Tac-Toe-Game
 
 
-This is a simple Tic Tac Toe game implemented using React and Chakra UI. The game includes background music that plays continuously and a "ting" sound effect that plays whenever a player makes a move.
+Tic-tac-toe, noughts and crosses, or Xs and Os is a paper-and-pencil game for two players who take turns marking the spaces in a three-by-three grid with X or O. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner
+
 
 
 ## Features
